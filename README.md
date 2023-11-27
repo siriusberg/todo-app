@@ -35,7 +35,8 @@ Make sure you have the following installed:
    - In the "Yang sudah dilakukan" section, click the undo button to move a completed task back to the "Yang harus dilakukan" section.  
 
 ### Preview
+<img src="./assets/Screenshot 2023-11-27 133316.png" />
 
-### Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
 
